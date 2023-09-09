@@ -33,7 +33,7 @@ const Hero = () => {
       </div>
 
       <div className={`flex-1 flex ${styles.flexCenter} md:my-0 my-10 relative`}>
-        <img src={robot} alt="billing" className="w-[100%] h-[100%] relative z-[5]" border="5px solid #555" />
+      <iframe src="https://www.veed.io/embed/35659b6b-4346-44b3-8885-1ee68297da85" width="744" height="504" frameborder="0" title="WhatsApp Video 2023-09-05 at 1.24.22 AM" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
         {/* gradient start */}
         <div className="absolute z-[0] w-[40%] h-[35%] top-0 pink__gradient" />
